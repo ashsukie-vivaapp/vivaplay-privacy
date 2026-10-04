@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "big_rusty",
+      "name": "Big Rusty Drums",
+      "version": 1,
+      "capabilities": [
+        "drum_kit"
+      ],
+      "description": "Acoustic drums, close microphones; variable velocity layers.",
+      "license": {
+        "name": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "downloadUrl": "",
+      "sizeBytes": 670014403,
+      "unpackedSizeBytes": 706198948,
+      "archiveFormat": "zip",
+      "sha256": "78cd39ae316cd116c70187f2f3b07e967f60abecc24ff17f73af636f4a4cc5d4",
+      "enabled": true,
+      "sampleCount": 4466
+    },
+    {
+      "id": "electronic_kit",
+      "name": "Electronic Kit",
+      "version": 1,
+      "capabilities": [
+        "sample_library"
+      ],
+      "description": "Electronic one-shots and percussion. See sample-specific attribution in samples/LICENSE.md.",
+      "license": {
+        "name": "Mixed sample licenses — see LICENSE.md",
+        "url": "",
+        "attribution": "Includes enoe, Mailbox Badger and Chris Beckstrom; original notices retained."
+      },
+      "downloadUrl": "",
+      "sizeBytes": 11424291,
+      "unpackedSizeBytes": 17316982,
+      "archiveFormat": "zip",
+      "sha256": "122ad802d115bf6f49d4f3c842bf96b5a2641ea36c5cbb733c4e2c9bfa47ece2",
+      "enabled": true,
+      "sampleCount": 169
+    }
+  ]
+}
