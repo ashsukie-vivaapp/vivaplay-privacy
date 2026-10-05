@@ -42,5 +42,45 @@
       "enabled": true,
       "sampleCount": 169
     }
+  ],
+  "articulationPacks": [
+    {
+      "id": "real_cymbals",
+      "name": "REAL CYMBALS",
+      "version": 1,
+      "capabilities": [
+        "articulation_kit"
+      ],
+      "description": "12 articulations · 137 original samples · velocity layers and round robin.",
+      "license": {
+        "name": "CC0-1.0"
+      },
+      "downloadUrl": "https://github.com/ashsukie-vivaapp/vivaplay-packs/releases/download/packs-v1/real_cymbals.zip",
+      "sizeBytes": 110559062,
+      "unpackedSizeBytes": 110529441,
+      "archiveFormat": "zip",
+      "sha256": "d4d0e2e92c2b43aa5174b31db86994ef05d0144597d9cfc7ea9dd440ec318d25",
+      "enabled": true,
+      "sampleCount": 137
+    },
+    {
+      "id": "real_percussion",
+      "name": "REAL PERCUSSION",
+      "version": 1,
+      "capabilities": [
+        "articulation_kit"
+      ],
+      "description": "24 articulations · 404 original samples · velocity layers and round robin.",
+      "license": {
+        "name": "CC0-1.0"
+      },
+      "downloadUrl": "https://github.com/ashsukie-vivaapp/vivaplay-packs/releases/download/packs-v1/real_percussion.zip",
+      "sizeBytes": 41401140,
+      "unpackedSizeBytes": 88667876,
+      "archiveFormat": "zip",
+      "sha256": "643559e4b7ea4624e2c43b3ff988ddc9af7bdce53652ed1146232515e76f2a5e",
+      "enabled": true,
+      "sampleCount": 404
+    }
   ]
 }
